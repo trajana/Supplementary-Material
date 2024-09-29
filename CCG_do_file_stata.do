@@ -17,7 +17,7 @@ cd "H:\Stata"
 
 *Dataset
 
-sysuse CCGfinal
+sysuse CCG_file_for_stata
 
 *==============================================================================*
 
